@@ -36,3 +36,8 @@ Here are a couple of thoughts on questions to ask and ways to look at this data:
 - How does the geographical distribution of observed falls differ from that of found meteorites?
 
 - this would be great overlaid on a cartogram or alongside a high-resolution population density map are there any geographical differences or differences over time in the class of meteorites that have fallen to Earth?
+
+## Reference 
+
+[Nasa Meteorite Landings](https://data.nasa.gov/Space-Science/Meteorite-Landings/gh4g-9sfh)  
+[Kaggle Meteorite Landings](https://www.kaggle.com/datasets/nasa/meteorite-landings)
